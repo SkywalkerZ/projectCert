@@ -1,7 +1,8 @@
 # projectCert
 Compilation of all certifications completed by Abraar.
 
-WIP!
+> You learn something everyday...
+
 ## Certifications:
 
 1. Google Data Analytics Professional Certification - By Google: [Link](https://www.coursera.org/account/accomplishments/specialization/certificate/BD55QUDNXXUC)
